@@ -1,7 +1,30 @@
 aid: melodyarc
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/melodyarc.png
 name: MelodyArc
-description: MelodyArc is a company surfaced as a portfolio company of bloomberg-beta and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  MelodyArc is an enterprise AI operations platform that orchestrates data,
+  business rules, AI agents, and human workers in one governed system, so the
+  right judgment is applied at the right moment, every time. It turns messy,
+  cross-system, high-consequence operational work into modular building blocks:
+  Points (atomic units of work capturing context, action, state, and ownership),
+  Point Sets (reusable workflow configurations), a Point Engine (a dynamic
+  decision graph routing tasks through rules, automation, AI, and human
+  intervention in real time), AI Operators (configured workers with instructions
+  and tools), a Portal for oversight and intervention, and Record for built-in
+  traceability. It targets enterprise operations teams handling high-consequence
+  work at scale and runs on managed or self-hosted infrastructure. Backed by
+  Bloomberg Beta.
 url: https://raw.githubusercontent.com/api-evangelist/melodyarc/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,9 +34,18 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- AI
+- Artificial Intelligence
+- Operations
+- Workflow Automation
+- Orchestration
+- AI Agents
+- Governance
+- Enterprise
+- Human-in-the-Loop
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +55,24 @@ maintainers:
 common:
 - type: Website
   url: https://melodyarc.com/
+- type: Documentation
+  url: https://docs-beta.melodyarc.app/docs/melodyarc-platform
+- type: SignUp
+  url: https://melodyarc.com/book-a-demo
+- type: TermsOfService
+  url: https://melodyarc.com/terms-and-conditions
+- type: PrivacyPolicy
+  url: https://melodyarc.com/privacy-policy
+- type: TrustCenter
+  url: https://melodyarc.secureframetrust.com/
+- type: Compliance
+  url: https://melodyarc.secureframetrust.com/
+- type: LLMsTxt
+  url: llms/melodyarc-llms.txt
+- type: DomainSecurity
+  url: security/melodyarc-domain-security.yml
+x-enrichment:
+  date: '2026-07-20'
+  status: minimal
+  artifacts_added: 3
+  pass: local-v1
