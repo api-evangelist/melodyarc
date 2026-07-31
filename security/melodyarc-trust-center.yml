@@ -1,0 +1,17 @@
+generated: '2026-07-20'
+method: searched
+probe: false
+source: https://melodyarc.secureframetrust.com/
+url: https://melodyarc.secureframetrust.com/
+platform: Secureframe Trust
+certifications:
+- SOC 2 Type 2
+- HIPAA
+notes: >-
+  SOC 2 Type 2 audited annually. HIPAA privacy and security safeguards for
+  health data. A confidential reporting channel is made available to internal
+  personnel and external parties to report security and other identified
+  concerns. ISO 27001, PCI DSS, and GDPR are not listed on the trust page.
+evidence:
+- source: https://melodyarc.secureframetrust.com/
+  keywords: [soc 2 type 2, hipaa, trust center, confidential reporting channel]
