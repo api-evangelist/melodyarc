@@ -64,6 +64,86 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-MelodyArc is a company surfaced as a portfolio company of bloomberg-beta and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+MelodyArc is an enterprise AI operations platform that orchestrates data, business rules, AI agents, and human workers in one governed system, so the right judgment is applied at the right moment, every time. It turns messy, cross-system, high-consequence operational work into modular building blocks: Points (atomic units of work capturing context, action, state, and ownership), Point Sets (reusable workflow configurations), a Point Engine (a dynamic decision graph routing tasks through rules, automation, AI, and human intervention in real time), AI Operators (configured workers with instructions and tools), a Portal for oversight and intervention, and Record for built-in traceability. It targets enterprise operations teams handling high-consequence work at scale and runs on managed or self-hosted infrastructure. Backed by Bloomberg Beta.
 
-Backed by: bloomberg-beta — https://melodyarc.com/
+**Areas:** Company · Artificial Intelligence · Workflow Automation · Orchestration · AI Agents · Governance · Enterprise · Human-in-the-Loop
+
+## MelodyArc on APIs.io
+
+Everything profiled for MelodyArc is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/melodyarc/](https://apis.io/providers/melodyarc/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Melodyarc Domain Security](https://apis.io/security/melodyarc/melodyarc-domain-security/)
+- [Melodyarc Trust Center](https://apis.io/security/melodyarc/melodyarc-trust-center/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://melodyarc.com/)
+- [Documentation](https://docs-beta.melodyarc.app/docs/melodyarc-platform)
+- [Sign up](https://melodyarc.com/book-a-demo)
+- [Compliance](https://melodyarc.secureframetrust.com/)
+- [Trust centre](https://melodyarc.secureframetrust.com/)
+- [Terms of service](https://melodyarc.com/terms-and-conditions)
+- [Privacy policy](https://melodyarc.com/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 12.0** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 34.2 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/melodyarc/](https://apis.io/providers/melodyarc/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for MelodyArc: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/melodyarc/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
